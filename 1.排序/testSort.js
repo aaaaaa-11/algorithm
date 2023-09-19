@@ -11,7 +11,7 @@ function generateRandomArray (maxSize, maxValue) {
 function isSame (arr1, arr2) {
   if (!Array.isArray(arr1) || !Array.isArray(arr2) || arr1.length != arr2.length) return false
   if (!arr1.length && !arr2.length) return true
-  return arr1.some((item, i) => arr1[i] === arr2[i])
+  return arr1.every((item, i) => item === arr2[i])
 }
 
 // 验证排序算法
