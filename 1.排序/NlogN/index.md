@@ -13,7 +13,7 @@ demo: 给定数组找最大值
 
 [-> 代码实现](./recursion.js)
 
-![recursion](../images/recursion.png)
+![recursion](../../images/recursion.png)
 时间复杂度：
 
 master公式：

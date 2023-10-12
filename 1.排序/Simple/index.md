@@ -142,4 +142,4 @@ a = a ^ b // (a ^ b) ^ a = b ^ a ^ a = b
 
 [demo](./testSort.js)
 
-下一节：[O(NlogN)排序](./NlogN.md)
+下一节：[O(NlogN)排序](../NlogN/index.md)

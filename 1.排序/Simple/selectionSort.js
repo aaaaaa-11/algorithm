@@ -4,7 +4,7 @@
  * 例如，给定位置i，找a[i+1]～a[n-1]中最小值放到a[i]位置，
  */
 
-const testSort = require("./testSort")
+const testSort = require("../testSort")
 
 
 /**

@@ -4,7 +4,7 @@
  * 例如：外层遍历到i位置，为了保证0～i位置有序：从i开始，每次比较相邻两元素大小，将最值尽可能移到左侧
  */
 
-const testSort = require("./testSort");
+const testSort = require("../testSort");
 
 
 /**

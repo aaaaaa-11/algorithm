@@ -1,4 +1,4 @@
-const testSort = require("./testSort");
+const testSort = require("../testSort");
 
 /*
   归并排序

@@ -4,7 +4,7 @@
  * 例如：第i轮移动：从i+1~n-1位置，每次比较相邻元素，将最值放到a[i]
  */
 
-const testSort = require("./testSort");
+const testSort = require("../testSort");
 
 /**
  * @param {number[] arr}
