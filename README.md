@@ -6,3 +6,5 @@ https://www.bilibili.com/video/BV13g41157hK/?p=3&spm_id_from=pageDriver&vd_sourc
 2. [简单排序](./1.排序/Simple/index.md)
 
 3. [递归和归并排序](./1.排序/NlogN/index.md)
+
+4. [快排序](./1.排序/Quick/index.md)
